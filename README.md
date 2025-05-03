@@ -2,7 +2,7 @@
 
 # Hi there, I'm Gunpreet Singh 👋
 
-I'm a Data Scientist passionate about NLP, machine learning, and solving real-world problems using AI. I specialize in building powerful ML pipelines with LangChain, LLMs, and cutting-edge frameworks like Tensorflow.
+I'm a Data Scientist, passionate about NLP, machine learning, and solving real-world problems using AI. I specialize in building powerful ML pipelines with LangChain, LLMs, and cutting-edge frameworks like Tensorflow.
 
 ---
 
