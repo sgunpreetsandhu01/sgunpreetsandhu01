@@ -31,8 +31,8 @@ I'm a Data Scientist, passionate about NLP, machine learning, and solving real-w
 
 ## 📜 Certifications
 
-- ✅ DP-100: Azure Data Scientist Associate
-- ✅ AZ-900: Azure Fundamentals
+- ✅ DP-100 Microsoft Certified: Azure Data Scientist Associate
+- ✅ AZ-900 Microsoft Certified: Azure Fundamentals
 - ✅ TensorFlow for AI, ML & DL (Coursera)
 - ✅ Python Programming & Machine Learning (Microsoft, Foxmula)
 
